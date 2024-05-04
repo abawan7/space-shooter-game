@@ -66,7 +66,5 @@ To run the game:
 
 ## Developed by
 
-* Abdullah Awan
-
 - Abdullah Awan **`abawan7`**
 
