@@ -8,7 +8,7 @@ This project is a simple console-based clone of the classic "Space Invaders" gam
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
+## Prerequisites
 
 What you need to run the game:
 
